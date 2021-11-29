@@ -1,6 +1,6 @@
 Someone who likes tinkering around.
 
-[Nekonull.me](https://nekonull.me) | [My PGP Public Key (7A9E3845)](https://github.com/jerrylususu/jerrylususu/blob/main/public.asc)
+[Nekonull.me](https://nekonull.me) | [Things I read](https://github.com/jerrylususu/bookmark-collection) | [My PGP Public Key (7A9E3845)](https://github.com/jerrylususu/jerrylususu/blob/main/public.asc)
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=jerrylususu)
 
