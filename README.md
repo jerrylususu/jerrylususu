@@ -1,4 +1,8 @@
-### Hi there 👋
+Someone who likes tinkering around.
+
+[Nekonull.me](https://nekonull.me) | [My PGP Public Key (7A9E3845)](https://github.com/jerrylususu/jerrylususu/blob/main/public.asc)
+
+![Github Stat](https://github-readme-stats.vercel.app/api?username=jerrylususu)
 
 <!--
 **jerrylususu/jerrylususu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
